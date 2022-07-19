@@ -5,6 +5,7 @@ The dmap address: 0x90949c9937A11BA943C7A72C3FA073a37E3FdD96
 ## core stuff
 
 - [original dmap build/deploy repo](https://github.com/dapphub/dmap)
+- [note the dmap.txt file](https://github.com/dapphub/dmap/blob/master/dmap.txt)
 - [dpath definition](https://github.com/dapphub/dpath)
 - [evilroot / rootcanal](https://github.com/kbrav/rootcanal) -- the "exploit" of the root registry, a kind of lesson about contract architecture
 
