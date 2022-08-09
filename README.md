@@ -21,6 +21,7 @@ The dmap address: 0x90949c9937A11BA943C7A72C3FA073a37E3FdD96
 - [root](0x022ea9ba506e38ef6093b6ab53e48bbd60f86832) -- "root" is simply a convention for dpath, dmap does not treat it as special in any way
 - [free](https://etherscan.io/address/0xf151b2c51f0885684a502d9e901846d9ffce3d4a#code) -- free as in free-for-all
 - [packzone](https://github.com/packzone/packzone) -- append-only 2-level namezone for publishing packages
+- [hdmap](https://github.com/rugpullindex/hdmap) -- zone with Harberger tax pricing
 
 ## audits and reviews
 
